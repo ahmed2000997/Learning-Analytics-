@@ -1,7 +1,7 @@
 # 🎓 Moodle & Learning Analytics Integration
 
 **University of Ibn Khaldoun – Tiaret**  
-📘 Final Year Project by **Ahmed Kerou**
+📘 Final Year Project by **keroum ahmed faycal**
 
 ---
 
